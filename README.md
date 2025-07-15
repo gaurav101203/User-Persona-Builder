@@ -1,4 +1,4 @@
-### User-Persona-Builder
+##### User-Persona-Builder
 Hello Everyone,
 
 I have built this project which will scrape the posts and comments from the user's Reddit profile page and create a Persona for him/her. The two files present in the repository are the results of my two different approaches to solve this problem:
