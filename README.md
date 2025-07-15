@@ -18,16 +18,16 @@ I have used two methods for this:
 * Install all the dependencies and libraries that we have imported in our Python script.
 * Create a Reddit App on its official website, which will help us use Reddit's API to fetch the comments and posts of a user legally.
 * Enter all your Reddit app credentials in the code.
-* Choose the **target_username** that you want to build the persona of.
-* Once all these steps are done, you can run the code, and it will create a text file with the persona of the **target_username**.
+* Choose the `target_username` that you want to build the persona of.
+* Once all these steps are done, you can run the code, and it will create a text file with the persona of the `target_username`.
 
 ## 2. Using `Gemini API`:
    scraper_api.py is the Python script which runs on `Gemini's API`. In order to run that file, follow these steps:
 
 * Create an API key for Gemini and store it in the .env file by the name:
-  **GOOGLE_API_KEY="your_key_here"**
+  `GOOGLE_API_KEY="your_key_here"`
 * Install all the dependencies and libraries that we have imported in our Python script.
 * Create a Reddit App on its official website, which will help us use Reddit's API to fetch the comments and posts of a user legally.
 * Enter all your Reddit app credentials in the code.
-* Choose the **target_username** that you want to build the persona of.
-* Once all these steps are done, you can run the code, and it will create a text file with the persona of the **target_username**.
+* Choose the `target_username` that you want to build the persona of.
+* Once all these steps are done, you can run the code, and it will create a text file with the persona of the `target_username`.
