@@ -6,7 +6,7 @@ I have used two methods for this:
 
 1. Using Ollama's Phi model:
    scraper.py is the python script which runs on offline LLM and in order to run that file you will need to follow these steps:
-       1. Install Ollama from its official website and launch it.
+       1. Install Ollama from its official website and launch it. \n
        2. Now on your terminal run this command 'ollama pull phi'. I am using phi model because my PC does not have sufficient RAM to run bigger models like Llama2 or mistral, therefore the result may also be compromised a bit.
        3. Now install all the dependencies and libraries that we have imported in our python script.
        4. Create a Reddit App on its official website which help us to use Reddit's API to fetch the comments and posts of a user legally.
